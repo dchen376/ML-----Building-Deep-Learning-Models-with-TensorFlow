@@ -1,6 +1,4 @@
 # Building-Deep-Learning-Models-with-TensorFlow
-These are the labs I've practived on this IBM Course offered on Coursera
-
 
 Week 1 - Neural Networks, Deep Learning, and TensorFlow
   - Eager Execution
