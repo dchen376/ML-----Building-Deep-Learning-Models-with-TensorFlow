@@ -3,6 +3,10 @@ These are the labs I've practived on this IBM Course offered on Coursera
 
 
 Week 1 - Neural Networks, Deep Learning, and TensorFlow
+  - Eager Execution
+  - Linear Regression with TensorFlow
+  - Logistic Regression with TensorFlow
+  - Deep Neural Networks
 
 Week 2 - Supervised Learning Models (CNNs)
 
